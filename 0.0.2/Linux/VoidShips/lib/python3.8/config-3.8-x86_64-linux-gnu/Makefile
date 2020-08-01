@@ -31,8 +31,8 @@ MODLIBS=           $(LOCALMODLIBS) $(BASEMODLIBS)
 VERSION=	3.8
 srcdir=		..
 VPATH=		..
-abs_srcdir=	/build/python3.8-PQS7dW/python3.8-3.8.2/build-shared/..
-abs_builddir=	/build/python3.8-PQS7dW/python3.8-3.8.2/build-shared
+abs_srcdir=	/build/python3.8-UV3CQV/python3.8-3.8.3/build-shared/..
+abs_builddir=	/build/python3.8-UV3CQV/python3.8-3.8.3/build-shared
 
 
 CC=		x86_64-linux-gnu-gcc -pthread
